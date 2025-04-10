@@ -1,0 +1,19 @@
+[info] welcome to sbt 1.10.10 (Eclipse Adoptium Java 21.0.6)
+[info] loading settings for project global-plugins from sbt-updates.sbt...
+[info] loading global plugins from /Users/carlcaulkett/.sbt/1.0/plugins
+[info] loading settings for project livechart-build-build-build from metals.sbt...
+[info] loading project definition from /Users/carlcaulkett/Code/scala.js/livechart/project/project/project
+[info] loading settings for project livechart-build-build from metals.sbt...
+[info] loading project definition from /Users/carlcaulkett/Code/scala.js/livechart/project/project
+[success] Generated .bloop/livechart-build-build.json
+[success] Total time: 1 s, completed 10 Apr 2025, 20:43:20
+[info] loading settings for project livechart-build from metals.sbt, plugins.sbt...
+[info] loading project definition from /Users/carlcaulkett/Code/scala.js/livechart/project
+[success] Generated .bloop/livechart-build.json
+[success] Total time: 0 s, completed 10 Apr 2025, 20:43:21
+[info] loading settings for project livechart from build.sbt...
+[info] set current project to livechart (in build file:/Users/carlcaulkett/Code/scala.js/livechart/)
+[info] Executing in batch mode. For better performance use sbt's shell
+[info] compiling 1 Scala source to /Users/carlcaulkett/Code/scala.js/livechart/target/scala-3.6.4/classes ...
+[info] done compiling
+[success] Total time: 3 s, completed 10 Apr 2025, 20:43:24
