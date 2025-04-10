@@ -1,0 +1,31 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 6 products, 1 sources, 4 libraries
+[debug] current source = Set(${BASE}/LiveChart.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/LiveChart.scala), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(${BASE}/LiveChart.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Main$.DataItemID, Main, Main$.DataItem)
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: Main$.DataItemID, Main, Main$.DataItem
+[debug] Recompiling all sources: number of invalidated sources > 50.0 percent of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to /Users/carlcaulkett/Code/scala.js/livechart/target/scala-3.6.4/classes ...
+[debug] Returning already retrieved and compiled bridge: /Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.6.4/scala3-sbt-bridge-3.6.4.jar.
+[debug] [zinc] Running cached compiler 12eddc2b for Scala Compiler version 3.6.4
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-scalajs
+[debug] 	-classpath
+[debug] 	/Users/carlcaulkett/Code/scala.js/livechart/target/scala-3.6.4/classes:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_sjs1_3/3.6.4/scala3-library_sjs1_3-3.6.4.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.13/1.18.2/scalajs-library_2.13-1.18.2.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs1_3/2.8.0/scalajs-dom_sjs1_3-2.8.0.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/raquo/laminar_sjs1_3/17.0.0/laminar_sjs1_3-17.0.0.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-javalib/1.18.2/scalajs-javalib-1.18.2.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-scalalib_2.13/2.13.16%2B1.18.2/scalajs-scalalib_2.13-2.13.16%2B1.18.2.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/raquo/airstream_sjs1_3/17.0.0/airstream_sjs1_3-17.0.0.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/raquo/ew_sjs1_3/0.2.0/ew_sjs1_3-0.2.0.jar:/Users/carlcaulkett/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/app/tulz/tuplez-full-light_sjs1_3/0.4.0/tuplez-full-light_sjs1_3-0.4.0.jar
+[debug] Scala compilation took 2.994551125 s
+[info] done compiling

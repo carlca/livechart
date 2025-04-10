@@ -1,0 +1,4 @@
+[debug] [livechart-build] Classpath dependencies List()
+[debug] [livechart-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'livechart-build' to '/Users/carlcaulkett/Code/scala.js/livechart/project/.bloop/livechart-build.json'
+[success] Generated .bloop/livechart-build.json

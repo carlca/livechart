@@ -1,0 +1,39 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/carlcaulkett/Code/scala.js/livechart/target/scala-3.6.4/classes.bak
+[debug] About to delete class files:
+[debug] 	Main$DataItemID.class
+[debug] 	Main$DataItem$.class
+[debug] 	Main$.class
+[debug] 	Main$DataItem.class
+[debug] 	Main.class
+[debug] 	Main$$anon$1.class
+[debug] 	Main$DataItemID.tasty
+[debug] 	Main$DataItem$.tasty
+[debug] 	Main$.tasty
+[debug] 	Main$DataItem.tasty
+[debug] 	Main.tasty
+[debug] 	Main$$anon$1.tasty
+[debug] We backup class files:
+[debug] 	Main$DataItemID.class
+[debug] 	Main$DataItem$.class
+[debug] 	Main$.class
+[debug] 	Main$DataItem.class
+[debug] 	Main.class
+[debug] 	Main$$anon$1.class
+[debug] 	Main$DataItemID.tasty
+[debug] 	Main$DataItem$.tasty
+[debug] 	Main$.tasty
+[debug] 	Main$DataItem.tasty
+[debug] 	Main.tasty
+[debug] 	Main$$anon$1.tasty
+[debug] Registering generated classes:
+[debug] 	Main$.class
+[debug] 	LiveChart.class
+[debug] 	LiveChart$package.class
+[debug] 	Main.class
+[debug] 	LiveChart$package$.class
+[debug] 	Main$.tasty
+[debug] 	LiveChart.tasty
+[debug] 	LiveChart$package.tasty
+[debug] 	Main.tasty
+[debug] 	LiveChart$package$.tasty
+[debug] Removing the temporary directory used for backing up class files: /Users/carlcaulkett/Code/scala.js/livechart/target/scala-3.6.4/classes.bak
